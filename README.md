@@ -12,7 +12,7 @@ As An Cyber Security Expert And Web Designer I Always Intended To Use My +7 Year
 
 <br/>
 .
-- :computer: Most used line of code `" explit "`
+- :computer: Most used line of code  " exploit "
 
 
 .
@@ -44,4 +44,5 @@ As An Cyber Security Expert And Web Designer I Always Intended To Use My +7 Year
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=seefu-x&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
+
 
